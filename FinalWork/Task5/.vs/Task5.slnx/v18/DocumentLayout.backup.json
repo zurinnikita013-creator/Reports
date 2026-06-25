@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\pages\\ordersuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\pages\\ordersuccess.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\pages\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\pages\\ordersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task5\\task5\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D06223C5-1164-A98E-7A4D-A8B3645E86E9}|Task5\\Task5.csproj|solutionrelative:task5\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderSuccess.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\OrderSuccess.cshtml.cs",
+              "RelativeDocumentMoniker": "Task5\\Pages\\OrderSuccess.cshtml.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\OrderSuccess.cshtml.cs",
+              "RelativeToolTip": "Task5\\Pages\\OrderSuccess.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:12:24.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\OrderSuccess.cshtml",
+              "RelativeDocumentMoniker": "Task5\\Pages\\OrderSuccess.cshtml",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\OrderSuccess.cshtml",
+              "RelativeToolTip": "Task5\\Pages\\OrderSuccess.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:12:22.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Task5\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Task5\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:07:27.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Task5\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Task5\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-22T12:07:25.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Program.cs",
+              "RelativeDocumentMoniker": "Task5\\Program.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Program.cs",
+              "RelativeToolTip": "Task5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:05:49.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task5\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Task5\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:04:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Task5\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task5\\Task5\\Models\\Product.cs",
+              "RelativeToolTip": "Task5\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T12:03:59.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

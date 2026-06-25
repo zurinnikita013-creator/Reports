@@ -1,0 +1,98 @@
+﻿<Window x:Class="Task6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Task6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter"/>
+    </Window.Resources>
+
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Margin="0,0,0,10">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="Auto"/>
+            </Grid.ColumnDefinitions>
+
+            <Button x:Name="OrderWindowButton" Content="Работа с заказами" 
+                    Visibility="Collapsed" Click="OrderWindowButton_Click" Padding="10,5"/>
+
+            <Button Grid.Column="1" x:Name="ViewOrderButton" Content="Просмотр заказа" 
+                    Visibility="Collapsed" Click="ViewOrderButton_Click" Padding="10,5" Margin="10,0,0,0"/>
+
+            <StackPanel Grid.Column="3" Orientation="Horizontal" VerticalAlignment="Center">
+                <TextBlock x:Name="UserFioTextBlock" Text="Гость" Margin="0,0,15,0" VerticalAlignment="Center" FontWeight="Bold"/>
+                <Button x:Name="AuthButton" Content="Войти" Click="AuthButton_Click" Padding="15,5"/>
+            </StackPanel>
+        </Grid>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,0,0,10">
+            <TextBlock Text="{Binding FilteredCount}" FontWeight="Bold"/>
+            <TextBlock Text=" из "/>
+            <TextBlock Text="{Binding TotalCount}" FontWeight="Bold"/>
+        </StackPanel>
+
+        <WrapPanel Grid.Row="2" Margin="0,0,0,10">
+            <StackPanel Margin="0,0,15,5">
+                <TextBlock Text="Поиск по названию:"/>
+                <TextBox Width="150" Text="{Binding SearchText, UpdateSourceTrigger=PropertyChanged}"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,15,5">
+                <TextBlock Text="Производитель:"/>
+                <ComboBox Width="150" ItemsSource="{Binding Manufacturers}" SelectedItem="{Binding SelectedManufacturer}"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,15,5">
+                <TextBlock Text="Цена от:"/>
+                <TextBox Width="70" Text="{Binding MinPrice, UpdateSourceTrigger=PropertyChanged, TargetNullValue=''}"/>
+            </StackPanel>
+            <StackPanel Margin="0,0,15,5">
+                <TextBlock Text="до:"/>
+                <TextBox Width="70" Text="{Binding MaxPrice, UpdateSourceTrigger=PropertyChanged, TargetNullValue=''}"/>
+            </StackPanel>
+
+            <StackPanel Margin="0,0,15,5">
+                <TextBlock Text="Сортировка:"/>
+                <ComboBox Width="180" ItemsSource="{Binding SortOptions}" SelectedItem="{Binding SelectedSortOption}"/>
+            </StackPanel>
+        </WrapPanel>
+
+
+        <Grid Grid.Row="3">
+            <DataGrid Grid.Row="3" ItemsSource="{Binding ProductView}" AutoGenerateColumns="False" IsReadOnly="True">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Наименование" Binding="{Binding Name}" Width="*"/>
+                    <DataGridTextColumn Header="Производитель" Binding="{Binding Manufacturer}" Width="150"/>
+                    <DataGridTextColumn Header="Стоимость" Binding="{Binding Price}" Width="100"/>
+                    <DataGridTemplateColumn Width="100">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Заказать" Click="OrderButton_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+
+
+            <TextBlock Text="По вашему запросу товары не найдены. Попробуйте изменить параметры фильтра или поиска." 
+               HorizontalAlignment="Center" VerticalAlignment="Center" 
+               FontSize="14" Foreground="Gray" FontWeight="SemiBold" TextWrapping="Wrap" TextAlignment="Center" Margin="30"
+               Visibility="{Binding IsPlaceholderVisible, Converter={StaticResource BooleanToVisibilityConverter}}"/>
+        </Grid>
+    </Grid>
+</Window>

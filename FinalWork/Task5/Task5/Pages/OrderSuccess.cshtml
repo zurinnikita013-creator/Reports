@@ -1,0 +1,13 @@
+﻿@page
+@model Task5.Pages.OrderSuccessModel
+@{
+}
+
+<div>
+    <h3>Уведомление</h3>
+    <p>Товар <strong>@Model.Name</strong> с ценой <strong>@Model.Price.ToString() руб.</strong> добавлен в заказ.</p>
+</div>
+
+<p>
+    <a asp-page="/Index">Вернуться к списку товаров</a>
+</p>

@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ProductDto/Task3ProductDto.csproj" />
+  <Project Path="Task3/Task3.csproj" />
+</Solution>

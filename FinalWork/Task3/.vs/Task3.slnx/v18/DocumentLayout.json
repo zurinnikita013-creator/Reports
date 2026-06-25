@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\task3\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\models\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\task3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\task3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\productdto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|solutionrelative:productdto\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\task3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A36E21AC-5E27-824E-ADCA-0E00BD5C010A}|Task3\\Task3.csproj|solutionrelative:task3\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|solutionrelative:productdto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\finalwork\\task3\\productdto\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AC225F0-94F6-E161-9F47-012C8AC5F7B4}|ProductDto\\Task3ProductDto.csproj|solutionrelative:productdto\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\Product.cs",
+              "RelativeDocumentMoniker": "ProductDto\\Product.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\Product.cs",
+              "RelativeToolTip": "ProductDto\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:43:26.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductDto\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\ProductDto.cs",
+              "RelativeToolTip": "ProductDto\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:37:34.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductDto\\IProductService.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\ProductDto\\IProductService.cs",
+              "RelativeToolTip": "ProductDto\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:41:53.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Task3\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Task3\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:32:48.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Task3\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Task3\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-20T17:18:56.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Task3\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:12:59.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Models\\ProductService.cs",
+              "RelativeDocumentMoniker": "Task3\\Models\\ProductService.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Models\\ProductService.cs",
+              "RelativeToolTip": "Task3\\Models\\ProductService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:06:18.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Program.cs",
+              "RelativeDocumentMoniker": "Task3\\Program.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\razrabotka-programm-modul\\FinalWork\\Task3\\Task3\\Program.cs",
+              "RelativeToolTip": "Task3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-20T17:05:38.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

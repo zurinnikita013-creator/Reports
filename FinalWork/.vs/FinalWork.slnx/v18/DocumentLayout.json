@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\data\\datalimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\data\\datalimporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\TerminalApp.csproj|solutionrelative:finalwork\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\FinalWork.csproj|c:\\users\\sa\\source\\repos\\repositoryy\\finalwork\\finalwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1F875EB-0CDE-466F-AD01-8C4B27C63596}|FinalWork\\FinalWork.csproj|solutionrelative:finalwork\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatalImporter.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Data\\DatalImporter.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Data\\DatalImporter.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Data\\DatalImporter.cs*",
+              "RelativeToolTip": "FinalWork\\Data\\DatalImporter.cs*",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAcwJMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:20:28.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\OrderItem.cs*",
+              "RelativeToolTip": "FinalWork\\Models\\OrderItem.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:19:55.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\Order.cs*",
+              "RelativeToolTip": "FinalWork\\Models\\Order.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:19:39.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\Product.cs*",
+              "RelativeToolTip": "FinalWork\\Models\\Product.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:19:20.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Models\\User.cs*",
+              "RelativeToolTip": "FinalWork\\Models\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:18:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "FinalWork\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:16:57.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Form1.cs",
+              "RelativeDocumentMoniker": "FinalWork\\Form1.cs",
+              "ToolTip": "C:\\Users\\sa\\source\\repos\\repositoryy\\FinalWork\\FinalWork\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "FinalWork\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-23T13:09:31.749Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

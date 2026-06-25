@@ -1,0 +1,25 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="catalog">
+    @foreach (var item in Model.Products)
+    {
+        <div>
+            <div>
+                <h4><strong>@item.Name</strong></h4>
+                <p style="margin-bottom: 0;">Цена: @item.Price.ToString() руб.</p>
+            </div>
+            
+            <div>
+                <a asp-page="/OrderSuccess"
+                       asp-route-name="@item.Name"
+                       asp-route-price="@item.Price">
+                    Заказать
+                </a>
+            </div>
+        </div>
+    }
+</div>
